@@ -1,2 +1,2 @@
 # testrepo
-This repo is a test to explore git features
+This repo is a test to test git features
